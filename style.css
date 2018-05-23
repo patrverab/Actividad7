@@ -1,0 +1,23 @@
+
+}
+.carousel-item img {
+  height: 700px;
+
+}
+
+.texto {
+  margin-left: 150px;
+}
+
+.carousel-caption {
+position: absolute;
+top: 40vh;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+
+}
